@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Estadios Mapa Aplicacion</string>
+
+    <string name="agregar_estadio">Agregar Estadio</string>
+    <string name="nombre_estadio">Nombre:</string>
+    <string name="pais_estadio">pais:</string>
+    <string name="ciudad_estadio">Ciudad:</string>
+    <string name="direccion_estadio">direccion:</string>
+    <string name="equipo_estacio">equipo:</string>
+    <string name="capacidad_estadio">capacidad:</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="btCancelar">Cancelar</string>
+
+
 </resources>
