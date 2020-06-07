@@ -8,13 +8,25 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-                  <entry key="homeFragment">
+                  <entry key="modificarDialogFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-87" />
-                            <option name="y" value="-73" />
+                            <option name="x" value="510" />
+                            <option name="y" value="-293" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="navHomeFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                         <option name="myPositions">
@@ -29,13 +41,13 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="listaFragment">
+                  <entry key="navListaFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="180" />
-                            <option name="y" value="75" />
+                            <option name="x" value="256" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                         <option name="myPositions">
@@ -45,30 +57,23 @@
                                 <LayoutPositions />
                               </value>
                             </entry>
+                            <entry key="action_listaFragment_to_modificarDialogFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                           </map>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="mapaFragment">
+                  <entry key="navMapaFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="484" />
-                            <option name="y" value="291" />
-                          </Point>
-                        </option>
-                      </LayoutPositions>
-                    </value>
-                  </entry>
-                  <entry key="modificarDialogFragment">
-                    <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="563" />
-                            <option name="y" value="-65" />
+                            <option name="x" value="520" />
+                            <option name="y" value="213" />
                           </Point>
                         </option>
                       </LayoutPositions>
