@@ -13,5 +13,7 @@
 
     <string name="modificar_estadio">Modificar Estadio</string>
 
+    <string name="api_key" templateMergeStrategy="preserve" translatable="false">AQUIVATUAPI</string>
+
 
 </resources>
