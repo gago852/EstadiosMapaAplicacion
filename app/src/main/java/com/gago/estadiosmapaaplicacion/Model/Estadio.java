@@ -1,6 +1,8 @@
 package com.gago.estadiosmapaaplicacion.Model;
 
-public class Estadio {
+import java.io.Serializable;
+
+public class Estadio implements Serializable {
     private long codigoEstadio;
     private String nombreEstadio;
     private String paisEstadio;
